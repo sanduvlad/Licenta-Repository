@@ -1,0 +1,25 @@
+﻿<Page x:Class="_360_Video_Maker.CubeMapEditor"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:_360_Video_Maker"
+      mc:Ignorable="d"
+      Title="CubeMapEditor" Height="429" Width="855.088">
+
+    <Grid>
+        <Image Name="LeftVideoPreview" HorizontalAlignment="Left" Height="100" Margin="372,130,0,0" VerticalAlignment="Top" Width="100" Source="Resources/LEFT.png"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="476,130,0,0" VerticalAlignment="Top" Width="100"/>
+        <Image Name="RightVideoPreview" HorizontalAlignment="Left" Height="100" Margin="582,130,0,0" VerticalAlignment="Top" Width="100" Source="Resources/RIGHT.png"/>
+        <Image Name="FrontVideoPreview" HorizontalAlignment="Left" Height="100" Margin="478,130,0,0" VerticalAlignment="Top" Width="100" Source="Resources/FRONT.png"/>
+        <Image Name="TopVideoPreview" HorizontalAlignment="Left" Height="100" Margin="478,25,0,0" VerticalAlignment="Top" Width="100" Source="Resources/TOP.png"/>
+        <Image Name="BackVideoPreview" HorizontalAlignment="Left" Height="100" Margin="268,130,0,0" VerticalAlignment="Top" Width="100" Source="Resources/BACK.png"/>
+        <Image  Name="BottomVideoPreview" HorizontalAlignment="Left" Height="100" Margin="478,235,0,0" VerticalAlignment="Top" Width="100" Source="Resources/Bottom.png"/>
+        <Button Name="TopFileBrowser" Content="Top..." HorizontalAlignment="Left" Margin="136,355,0,0" VerticalAlignment="Top" Width="90" Click="TopFileBrowser_Click"/>
+        <Button Name="LeftFileBrowser" Content="Left..." HorizontalAlignment="Left" Margin="230,355,0,0" VerticalAlignment="Top" Width="90" Click="LeftFileBrowser_Click"/>
+        <Button Name="RightFileBrowser" Content="Right..." HorizontalAlignment="Left" Margin="326,355,0,0" VerticalAlignment="Top" Width="90" Click="RightFileBrowser_Click"/>
+        <Button Name="FrontFileBrowser" Content="Front..." HorizontalAlignment="Left" Margin="420,355,0,0" VerticalAlignment="Top" Width="90" Click="FrontFileBrowser_Click"/>
+        <Button Name="BackFileBrowser" Content="Back..." HorizontalAlignment="Left" Margin="516,355,0,0" VerticalAlignment="Top" Width="90" Click="BackFileBrowser_Click"/>
+        <Button Name="DownFileBrowser" Content="Down..." HorizontalAlignment="Left" Margin="610,355,0,0" VerticalAlignment="Top" Width="90" Click="DownFileBrowser_Click"/>
+    </Grid>
+</Page>

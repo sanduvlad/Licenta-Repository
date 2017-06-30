@@ -1,0 +1,5 @@
+D:\Repos\360-Video-Maker\GlobalSettings\bin\Debug\GlobalSettings.dll
+D:\Repos\360-Video-Maker\GlobalSettings\bin\Debug\GlobalSettings.pdb
+D:\Repos\360-Video-Maker\GlobalSettings\obj\Debug\GlobalSettingsLibrary.csprojResolveAssemblyReference.cache
+D:\Repos\360-Video-Maker\GlobalSettings\obj\Debug\GlobalSettings.dll
+D:\Repos\360-Video-Maker\GlobalSettings\obj\Debug\GlobalSettings.pdb

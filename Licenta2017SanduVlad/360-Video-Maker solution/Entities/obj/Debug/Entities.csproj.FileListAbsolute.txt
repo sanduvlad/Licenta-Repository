@@ -1,0 +1,10 @@
+C:\Users\sandu\Source\Repos\360-Video-Maker\Entities\bin\Debug\Entities.dll
+C:\Users\sandu\Source\Repos\360-Video-Maker\Entities\bin\Debug\Entities.pdb
+C:\Users\sandu\Source\Repos\360-Video-Maker\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\sandu\Source\Repos\360-Video-Maker\Entities\obj\Debug\Entities.dll
+C:\Users\sandu\Source\Repos\360-Video-Maker\Entities\obj\Debug\Entities.pdb
+D:\Repos\360-Video-Maker\Entities\bin\Debug\Entities.dll
+D:\Repos\360-Video-Maker\Entities\bin\Debug\Entities.pdb
+D:\Repos\360-Video-Maker\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+D:\Repos\360-Video-Maker\Entities\obj\Debug\Entities.dll
+D:\Repos\360-Video-Maker\Entities\obj\Debug\Entities.pdb

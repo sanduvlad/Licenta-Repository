@@ -1,0 +1,33 @@
+﻿<Page x:Class="_360_Video_Maker.EditorPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:_360_Video_Maker"
+      mc:Ignorable="d" 
+      d:DesignHeight="512" d:DesignWidth="1135"
+      Title="EditorPage" GotFocus="Page_GotFocus">
+
+    <Grid SizeChanged="Grid_SizeChanged">
+        <Grid Name="VideoFilesPanel" Background="#FF404040" HorizontalAlignment="Left" Width="293" Margin="0,0,0,144">
+            <ScrollViewer VerticalScrollBarVisibility="Auto" Margin="0,22,0,0">
+                <StackPanel Name="CubeMapListVideos">
+
+                </StackPanel>
+            </ScrollViewer>
+
+        </Grid>
+        <Grid Name="EquirectangularPreviewControl" Margin="293,0,0,168" Background="Black">
+            <Grid.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header = "Project Settings" Click="MenuItem_Click"/>
+                </ContextMenu>
+            </Grid.ContextMenu>
+            <Image Name="EquirectangularImageControl"/>
+        </Grid>
+        <Grid Background="#FF2E2E2E" Height="144" VerticalAlignment="Bottom">
+            <StackPanel Name="VideosEntryPointsList" HorizontalAlignment="Left" Height="144" VerticalAlignment="Top" Width="293"/>
+            <local:VideoSeekUserControl x:Name="videoSeekControl" Height="168" Margin="293,-24,0,0" VerticalAlignment="Top" Width="Auto"/>
+        </Grid>
+    </Grid>
+</Page>

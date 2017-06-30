@@ -1,0 +1,13 @@
+D:\Repos\360-Video-Maker\RenderEngine\bin\Debug\RenderEngine.dll
+D:\Repos\360-Video-Maker\RenderEngine\bin\Debug\RenderEngine.pdb
+D:\Repos\360-Video-Maker\RenderEngine\bin\Debug\AForge.dll
+D:\Repos\360-Video-Maker\RenderEngine\bin\Debug\AForge.Video.dll
+D:\Repos\360-Video-Maker\RenderEngine\bin\Debug\AForge.Video.FFMPEG.dll
+D:\Repos\360-Video-Maker\RenderEngine\bin\Debug\Entities.dll
+D:\Repos\360-Video-Maker\RenderEngine\bin\Debug\Entities.pdb
+D:\Repos\360-Video-Maker\RenderEngine\bin\Debug\AForge.xml
+D:\Repos\360-Video-Maker\RenderEngine\bin\Debug\AForge.Video.xml
+D:\Repos\360-Video-Maker\RenderEngine\bin\Debug\AForge.Video.FFMPEG.xml
+D:\Repos\360-Video-Maker\RenderEngine\obj\Debug\RenderEngine.csprojResolveAssemblyReference.cache
+D:\Repos\360-Video-Maker\RenderEngine\obj\Debug\RenderEngine.dll
+D:\Repos\360-Video-Maker\RenderEngine\obj\Debug\RenderEngine.pdb

@@ -1,0 +1,34 @@
+﻿<Window x:Class="_360_Video_Maker.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_360_Video_Maker"
+        mc:Ignorable="d"
+        Title="360 Video Maker" Height="600" Width="1300" Icon="Resources/logo.png">
+    <Grid>
+        <Menu DockPanel.Dock="Top" Background="#FF535353">
+            <!--<MenuItem Header="File" Width="27">
+                <MenuItem Header="Open Project"/>
+                <MenuItem Header="New Project"/>
+                <Separator />
+                <MenuItem Header="Save project"/>
+                <MenuItem Header="Close"/>
+            </MenuItem>-->
+
+            <MenuItem Header="Got to" Foreground="WhiteSmoke">
+                <!--<MenuItem Header="Go to Renderer" Click="GoToRenderer_MenuItem"/>-->
+                <!--<MenuItem Header="Go to Editor" Click="GoToEditor_MenuItem" Foreground="Black"/>-->
+                <MenuItem Header="Go to CubeMap Editor" Click="GoToCubeMapEditor_MenuItem" Foreground="Black" />
+            </MenuItem>
+            <MenuItem Header="Action" Foreground="WhiteSmoke">
+                <!--<MenuItem Header="Go to Renderer" Click="GoToRenderer_MenuItem"/>-->
+                <MenuItem Header="Render" Background="{x:Null}" Click="MenuItem_Click" Foreground="Black"/>
+            </MenuItem>
+
+        </Menu>
+        <Frame Name="MainFrame" NavigationUIVisibility="Hidden" Margin="0,17,0,0">
+
+        </Frame>
+    </Grid>
+</Window>

@@ -1,0 +1,98 @@
+C:\Users\sandu\Source\Repos\360-Video-Maker\360 Video Maker\bin\Debug\avcodec-53.dll
+C:\Users\sandu\Source\Repos\360-Video-Maker\360 Video Maker\bin\Debug\avdevice-53.dll
+C:\Users\sandu\Source\Repos\360-Video-Maker\360 Video Maker\bin\Debug\avformat-53.dll
+C:\Users\sandu\Source\Repos\360-Video-Maker\360 Video Maker\bin\Debug\avutil-51.dll
+C:\Users\sandu\Source\Repos\360-Video-Maker\360 Video Maker\bin\Debug\postproc-52.dll
+C:\Users\sandu\Source\Repos\360-Video-Maker\360 Video Maker\bin\Debug\swresample-0.dll
+C:\Users\sandu\Source\Repos\360-Video-Maker\360 Video Maker\bin\Debug\swscale-2.dll
+C:\Users\sandu\Source\Repos\360-Video-Maker\360 Video Maker\bin\Debug\Accord.dll.config
+C:\Users\sandu\Source\Repos\360-Video-Maker\360 Video Maker\bin\Debug\Resources\exclamation.png
+C:\Users\sandu\Source\Repos\360-Video-Maker\360 Video Maker\bin\Debug\360 Video Maker.exe.config
+C:\Users\sandu\Source\Repos\360-Video-Maker\360 Video Maker\bin\Debug\360 Video Maker.exe
+C:\Users\sandu\Source\Repos\360-Video-Maker\360 Video Maker\bin\Debug\360 Video Maker.pdb
+C:\Users\sandu\Source\Repos\360-Video-Maker\360 Video Maker\bin\Debug\VideoInformationRetrieval.dll
+C:\Users\sandu\Source\Repos\360-Video-Maker\360 Video Maker\bin\Debug\Accord.Video.FFMPEG.dll
+C:\Users\sandu\Source\Repos\360-Video-Maker\360 Video Maker\bin\Debug\Accord.Video.dll
+C:\Users\sandu\Source\Repos\360-Video-Maker\360 Video Maker\bin\Debug\Accord.dll
+C:\Users\sandu\Source\Repos\360-Video-Maker\360 Video Maker\bin\Debug\VideoInformationRetrieval.pdb
+C:\Users\sandu\Source\Repos\360-Video-Maker\360 Video Maker\bin\Debug\Accord.Video.FFMPEG.xml
+C:\Users\sandu\Source\Repos\360-Video-Maker\360 Video Maker\bin\Debug\Accord.Video.xml
+C:\Users\sandu\Source\Repos\360-Video-Maker\360 Video Maker\bin\Debug\Accord.xml
+C:\Users\sandu\Source\Repos\360-Video-Maker\360 Video Maker\obj\Debug\360 Video Maker.csprojResolveAssemblyReference.cache
+C:\Users\sandu\Source\Repos\360-Video-Maker\360 Video Maker\obj\Debug\EditorPage.g.cs
+C:\Users\sandu\Source\Repos\360-Video-Maker\360 Video Maker\obj\Debug\MainWindow.g.cs
+C:\Users\sandu\Source\Repos\360-Video-Maker\360 Video Maker\obj\Debug\NumericUpDownControl.g.cs
+C:\Users\sandu\Source\Repos\360-Video-Maker\360 Video Maker\obj\Debug\RenderPage.g.cs
+C:\Users\sandu\Source\Repos\360-Video-Maker\360 Video Maker\obj\Debug\VideoFileUserControl.g.cs
+C:\Users\sandu\Source\Repos\360-Video-Maker\360 Video Maker\obj\Debug\App.g.cs
+C:\Users\sandu\Source\Repos\360-Video-Maker\360 Video Maker\obj\Debug\360 Video Maker_Content.g.cs
+C:\Users\sandu\Source\Repos\360-Video-Maker\360 Video Maker\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sandu\Source\Repos\360-Video-Maker\360 Video Maker\obj\Debug\360 Video Maker_MarkupCompile.cache
+C:\Users\sandu\Source\Repos\360-Video-Maker\360 Video Maker\obj\Debug\360 Video Maker_MarkupCompile.lref
+C:\Users\sandu\Source\Repos\360-Video-Maker\360 Video Maker\obj\Debug\EditorPage.baml
+C:\Users\sandu\Source\Repos\360-Video-Maker\360 Video Maker\obj\Debug\MainWindow.baml
+C:\Users\sandu\Source\Repos\360-Video-Maker\360 Video Maker\obj\Debug\NumericUpDownControl.baml
+C:\Users\sandu\Source\Repos\360-Video-Maker\360 Video Maker\obj\Debug\RenderPage.baml
+C:\Users\sandu\Source\Repos\360-Video-Maker\360 Video Maker\obj\Debug\VideoFileUserControl.baml
+C:\Users\sandu\Source\Repos\360-Video-Maker\360 Video Maker\obj\Debug\360 Video Maker.g.resources
+C:\Users\sandu\Source\Repos\360-Video-Maker\360 Video Maker\obj\Debug\_360_Video_Maker.Properties.Resources.resources
+C:\Users\sandu\Source\Repos\360-Video-Maker\360 Video Maker\obj\Debug\360 Video Maker.csproj.GenerateResource.Cache
+C:\Users\sandu\Source\Repos\360-Video-Maker\360 Video Maker\obj\Debug\360 Video Maker.exe
+C:\Users\sandu\Source\Repos\360-Video-Maker\360 Video Maker\obj\Debug\360 Video Maker.pdb
+D:\Repos\360-Video-Maker\360 Video Maker\bin\Debug\avcodec-53.dll
+D:\Repos\360-Video-Maker\360 Video Maker\bin\Debug\avdevice-53.dll
+D:\Repos\360-Video-Maker\360 Video Maker\bin\Debug\avformat-53.dll
+D:\Repos\360-Video-Maker\360 Video Maker\bin\Debug\avutil-51.dll
+D:\Repos\360-Video-Maker\360 Video Maker\bin\Debug\postproc-52.dll
+D:\Repos\360-Video-Maker\360 Video Maker\bin\Debug\swresample-0.dll
+D:\Repos\360-Video-Maker\360 Video Maker\bin\Debug\swscale-2.dll
+D:\Repos\360-Video-Maker\360 Video Maker\bin\Debug\Accord.dll.config
+D:\Repos\360-Video-Maker\360 Video Maker\bin\Debug\360 Video Maker.exe.config
+D:\Repos\360-Video-Maker\360 Video Maker\bin\Debug\360 Video Maker.exe
+D:\Repos\360-Video-Maker\360 Video Maker\bin\Debug\360 Video Maker.pdb
+D:\Repos\360-Video-Maker\360 Video Maker\bin\Debug\AForge.Video.FFMPEG.dll
+D:\Repos\360-Video-Maker\360 Video Maker\bin\Debug\Entities.dll
+D:\Repos\360-Video-Maker\360 Video Maker\bin\Debug\PreviewRender.dll
+D:\Repos\360-Video-Maker\360 Video Maker\bin\Debug\RenderEngine.dll
+D:\Repos\360-Video-Maker\360 Video Maker\bin\Debug\VideoInformationRetrieval.dll
+D:\Repos\360-Video-Maker\360 Video Maker\bin\Debug\AForge.Video.dll
+D:\Repos\360-Video-Maker\360 Video Maker\bin\Debug\AForge.dll
+D:\Repos\360-Video-Maker\360 Video Maker\bin\Debug\Entities.pdb
+D:\Repos\360-Video-Maker\360 Video Maker\bin\Debug\PreviewRender.pdb
+D:\Repos\360-Video-Maker\360 Video Maker\bin\Debug\RenderEngine.pdb
+D:\Repos\360-Video-Maker\360 Video Maker\bin\Debug\VideoInformationRetrieval.pdb
+D:\Repos\360-Video-Maker\360 Video Maker\bin\Debug\AForge.Video.FFMPEG.xml
+D:\Repos\360-Video-Maker\360 Video Maker\bin\Debug\AForge.Video.xml
+D:\Repos\360-Video-Maker\360 Video Maker\bin\Debug\AForge.xml
+D:\Repos\360-Video-Maker\360 Video Maker\obj\Debug\360 Video Maker.csprojResolveAssemblyReference.cache
+D:\Repos\360-Video-Maker\360 Video Maker\obj\Debug\CubeMapEditor.g.cs
+D:\Repos\360-Video-Maker\360 Video Maker\obj\Debug\CubeMapEditor1.g.cs
+D:\Repos\360-Video-Maker\360 Video Maker\obj\Debug\EditorPage.g.cs
+D:\Repos\360-Video-Maker\360 Video Maker\obj\Debug\MainWindow.g.cs
+D:\Repos\360-Video-Maker\360 Video Maker\obj\Debug\NumericUpDownControl.g.cs
+D:\Repos\360-Video-Maker\360 Video Maker\obj\Debug\ProjectSettings.g.cs
+D:\Repos\360-Video-Maker\360 Video Maker\obj\Debug\RenderPage.g.cs
+D:\Repos\360-Video-Maker\360 Video Maker\obj\Debug\VideoBar.g.cs
+D:\Repos\360-Video-Maker\360 Video Maker\obj\Debug\VideoEntryPoint.g.cs
+D:\Repos\360-Video-Maker\360 Video Maker\obj\Debug\VideoFileUserControl.g.cs
+D:\Repos\360-Video-Maker\360 Video Maker\obj\Debug\VideoSeekUserControl.g.cs
+D:\Repos\360-Video-Maker\360 Video Maker\obj\Debug\App.g.cs
+D:\Repos\360-Video-Maker\360 Video Maker\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Repos\360-Video-Maker\360 Video Maker\obj\Debug\360 Video Maker_MarkupCompile.cache
+D:\Repos\360-Video-Maker\360 Video Maker\obj\Debug\360 Video Maker_MarkupCompile.lref
+D:\Repos\360-Video-Maker\360 Video Maker\obj\Debug\CubeMapEditor.baml
+D:\Repos\360-Video-Maker\360 Video Maker\obj\Debug\CubeMapEditor1.baml
+D:\Repos\360-Video-Maker\360 Video Maker\obj\Debug\EditorPage.baml
+D:\Repos\360-Video-Maker\360 Video Maker\obj\Debug\MainWindow.baml
+D:\Repos\360-Video-Maker\360 Video Maker\obj\Debug\NumericUpDownControl.baml
+D:\Repos\360-Video-Maker\360 Video Maker\obj\Debug\ProjectSettings.baml
+D:\Repos\360-Video-Maker\360 Video Maker\obj\Debug\RenderPage.baml
+D:\Repos\360-Video-Maker\360 Video Maker\obj\Debug\VideoBar.baml
+D:\Repos\360-Video-Maker\360 Video Maker\obj\Debug\VideoEntryPoint.baml
+D:\Repos\360-Video-Maker\360 Video Maker\obj\Debug\VideoFileUserControl.baml
+D:\Repos\360-Video-Maker\360 Video Maker\obj\Debug\VideoSeekUserControl.baml
+D:\Repos\360-Video-Maker\360 Video Maker\obj\Debug\360 Video Maker.g.resources
+D:\Repos\360-Video-Maker\360 Video Maker\obj\Debug\_360_Video_Maker.Properties.Resources.resources
+D:\Repos\360-Video-Maker\360 Video Maker\obj\Debug\360 Video Maker.csproj.GenerateResource.Cache
+D:\Repos\360-Video-Maker\360 Video Maker\obj\Debug\360 Video Maker.exe
+D:\Repos\360-Video-Maker\360 Video Maker\obj\Debug\360 Video Maker.pdb
